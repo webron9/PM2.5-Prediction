@@ -10,15 +10,15 @@ performance. Evaluated model effectiveness using the R-squared (R2) metric, prov
 Matplotlib and Seaborn. Leveraged domain knowledge to interpret model outputs and fine-tune model architectures.
 
 ### Dataset
-Dataset is confedential, so cannot be shared.
+The dataset is confidential, so cannot be shared.
 
-### Installation
-##### Step 1.Only if you have the dataset, upload to colab
-
-##### Step 2. Install Libraries
+### Demonstration
+##### Step 1. Upload ml_final_project.ipynb to Google Colab
+##### Step 2. If and only if you have the dataset, upload it to colab project.
+##### Step 3. Install Libraries if not present already
 ```sh
 !pip install [library_name]
 ```
-##### Step 3. Run all cells
+##### Step 4. Run all cells
 
 
